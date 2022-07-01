@@ -16,7 +16,7 @@
             <span class="toolbar-btn-status">{{ $t("locale.name") }}</span>
             <el-dropdown-menu slot="dropdown">
               <el-dropdown-item command="en">🇬🇧</el-dropdown-item>
-              <el-dropdown-item command="zh">🇨🇳</el-dropdown-item>
+              <el-dropdown-item command="zh">🇨🇳C</el-dropdown-item>
             </el-dropdown-menu>
           </el-dropdown>
         </div>
